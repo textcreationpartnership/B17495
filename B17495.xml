@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Winchcomb-papers reviewed wherein are contained some choice notes concerning the government of the church, the liturgy and forms of prayer, the ordination and power of ministers, the administration of the Sacrament, &amp; some other questions of our time : for the use of Glocestershire.</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17495</idno><idno type="EEBO-CITATION">9234348</idno>
+  <idno type="VID">204377</idno>
+  <idno type="EEBO-PROQUEST">2248502382</idno>
+  
+            <idno type="STC">Wing B809A</idno>
+            <idno type="OCLC">09234348</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1300:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Winchcomb-papers reviewed wherein are contained some choice notes concerning the government of the church, the liturgy and forms of prayer, the ordination and power of ministers, the administration of the Sacrament, &amp; some other questions of our time : for the use of Glocestershire.</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>[1], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Clement Barksdale--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Apologetic works.</term>
+               <term type="corporate_name">Church of England --  Government.</term>
+               <term type="corporate_name">Church of England --  Liturgy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204377:1"/>
+            <pb facs="tcp:204377:1"/>
+            <p>
+               <hi>THE</hi> WINCHCOMB-<hi>Papers Reviewed.</hi>
+            </p>
+            <p>Wherein are contained some Choice Notes <hi>Concerning</hi>
+            </p>
+            <list>
+               <item>The Government of the Church.</item>
+               <item>The Liturgy and Forms of Prayer.</item>
+               <item>The Ordination and Power of Ministers.</item>
+               <item>The Administration of the Sacrament, &amp; some other Questions of our time.</item>
+            </list>
+            <p>
+               <hi>For the use of</hi> Glocestershire.</p>
+            <p>In Veritate &amp; Charitate.</p>
+            <p>LONDON, <hi>Printed, for</hi> Richard Royston <hi>at the</hi> Angel <hi>in</hi> Ivie-lane. <hi>1657.</hi>
+            </p>
+         </div>
+         <div xml:lang="lat" type="epigraph">
+            <pb facs="tcp:204377:2"/>
+            <pb facs="tcp:204377:2"/>
+            <head>S. Augustinus de fide &amp; oper. <hi>c.</hi> 5. tom. 4. p. 13.</head>
+            <p>Cum sive per negligentiam praeposi<g ref="char:EOLhyphen"/>torum, sive per aliquam excusabi<g ref="char:EOLhyphen"/>lem necessitatem, sive per occultas obre<g ref="char:EOLhyphen"/>ptiones, invenimus in ecclesia malos, quos ecclesiasticâ disciplinâ corrigere aut coërcere non possumus; tunc non ascen<g ref="char:EOLhyphen"/>dat in cor nostrum impia ac perniciosa praesumptio, quâ existimemus nos ab his esse separandos, ut peccatis eorum non in<g ref="char:EOLhyphen"/>quinemur; at{que} ita post nos trahere co<g ref="char:EOLhyphen"/>nemur, veluti mundos sanctos{que} discipu<g ref="char:EOLhyphen"/>los, ab unitatis compage, quasi à malorum consortio segregatos. Veniant in mentem illae descripturis similitudines &amp; divina oracula, vel certissima exempla, quibus demonstratum &amp; pronuntiatum est, ma<g ref="char:EOLhyphen"/>los in ecclesia permixtos bonis usque in finem seculi tempus{que} judicii futuros; &amp; nihil bonis in unitate ac participatione Sacramentorum, qui eorum factis non consenserint, obfuturos.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204377:3"/>
+            <pb n="1" facs="tcp:204377:3"/>
+            <head>The Review.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which at first gave life to the following <hi>Papers,</hi> is the cause also why they are now <hi>revived:</hi> namely, the consi<g ref="char:EOLhyphen"/>deration of many evils done to the Church of <hi>England,</hi> by the over<g ref="char:EOLhyphen"/>busie actings of some men that stile them selves, <hi>Pastors of Gathered Churches;</hi> who, while they gather a few, scatter many. There is a short, but sad <hi>complaint,</hi> which I have late<g ref="char:EOLhyphen"/>ly seen, written in the name of many thou<g ref="char:EOLhyphen"/>sands of this <hi>Country,</hi> to this effect. <q>1 That in severall great Parishes, Market Towns and other, Ministers are placed, who own but a very few as Members of their Church, and preach judgement to the rest, and deprive them and their children of the Sacraments, and other Ministerial Offices (yet receive the profits) and account them but as Heathens, except they will enter in<g ref="char:EOLhyphen"/>to
+<pb n="2" facs="tcp:204377:4"/>to their private Covenant. 2 That the said Preachers wander abroad with their Disciples after them, invade other mens pa<g ref="char:EOLhyphen"/>rishes, distract the people, and alienate their mindes from their lawful Pastors. 3 That they spread (under pretence of preaching Christ) very dangerous opini<g ref="char:EOLhyphen"/>ons against parish-Churches, and parish-Ministers, and against that order and Go<g ref="char:EOLhyphen"/>verment that ought to be restored to the Church of God. 4 That the said prea<g ref="char:EOLhyphen"/>chers pretend to be the men, by whose fa<g ref="char:EOLhyphen"/>vour or disfavour other Ministers must stand or fall: Whose Ordination they call Antichristian, and have a designe to plant their illiterate followers (whom they <hi>ex<g ref="char:EOLhyphen"/>ercise</hi> to that end) in their places.</q> These and the like grievances we hope Authority will in time redresse: In the mean time, it is the duty of Ministers that are left of the old stock, to teach the truth and warn the people of these errors: To which purpose the following Papers are not of no use. In the Review whereof we see the substance of them may be referred (chiefly) to these Heads.</p>
+            <pb n="3" facs="tcp:204377:4"/>
+            <list>
+               <item>
+                  <hi>Of Church Government.</hi>
+               </item>
+               <item>
+                  <hi>Of Publick Prayers.</hi>
+               </item>
+               <item>
+                  <hi>Of The Ministry.</hi>
+               </item>
+               <item>
+                  <hi>Of Communion.</hi>
+               </item>
+            </list>
+            <p>And of these we shall note something in re<g ref="char:EOLhyphen"/>lation to the printed Papers.</p>
+            <p n="1">1. <hi>For Church-Government</hi> I cannot blame the <hi>Respondent,</hi> who had lived under the form of Episcopacy, to own that ancient way. He denies it not to have been subject unto faults and errors by the miscarriage of persons employed; whose faults, if th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> shoud be charged likewise upon other Go<g ref="char:EOLhyphen"/>vernments, no form, neither Civil nor Ec<g ref="char:EOLhyphen"/>clesiastical, would be of any long continu<g ref="char:EOLhyphen"/>ance. I suppose it were <hi>a good Reformation,</hi> to make some amendment in the <hi>Ecclesiastical Lawes</hi> (as about the abilities required in persons to be Ordained, <hi>&amp;c.</hi>) and to bring up the <hi>practice</hi> of the Church to the Laws. That Episcopacy is not to be cast off, we the Ancients, <hi>Ignatius,</hi> and little reading in are verily perswaded by our o<g ref="char:EOLhyphen"/>ther, and by what we find in our own best Reformed Divines. No more need here be named but <hi>Zanchy</hi> from beyond sea, and Bishop <hi>Davenant</hi> at home (whose words you have in the Testimonies) Bishop <hi>Davenant</hi>
+               <pb n="4" facs="tcp:204377:5"/>(a man worthily much esteemed by all par<g ref="char:EOLhyphen"/>ties) saith, <hi>that among many Presbyters, that ad<g ref="char:EOLhyphen"/>minister the Word and Sacraments in some one City, there was one by the Apostles themselves, set over the rest, and (indowed) with a certain singular dignity and power. And it is manifest, these Bishops thus establisht by the Apostles autho<g ref="char:EOLhyphen"/>rity had their successo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in the same Cities by a continual order.</hi> And <hi>Zanchy</hi> saith, <q>
+                  <hi>That in the Protestant Churches are not wanting Bishops and Archbishops indeed and in effect: But the good Greek names being changed into bad Latin, they call them Superintendents and general Su<g ref="char:EOLhyphen"/>perintendents. And where these names are not, yet there are wont to be some prime men, who have almost all the Authority. And why should we contend about names, when we agree about the thing?</hi>
+               </q> I will onely adde upon this first Head, what I hear is not displeasing to the Presbyterians, I wish it may not be to the In<g ref="char:EOLhyphen"/>dependents (<hi>whose chief Argument from</hi> Mat. 18. <hi>for the power of the Congregation, is answe<g ref="char:EOLhyphen"/>red by considering, that matters seem to be refer<g ref="char:EOLhyphen"/>red to the people, because they passed at their as<g ref="char:EOLhyphen"/>semblies, though under censure of Bishops and Presbyters.</hi> See page 112.) Namely the judg<g ref="char:EOLhyphen"/>ment of that most Reverend and lear<g ref="char:EOLhyphen"/>ned Primate, Dr. <hi>Ʋsher,</hi> now with God: who in four Articles lately printed, hath re<g ref="char:EOLhyphen"/>duced
+<pb n="5" facs="tcp:204377:5"/>Episcopacy to the form of Synodical Government. The summe is this, <q>1 That in every parish the Rector with the Church<g ref="char:EOLhyphen"/>wardens note the scandalous and admonish them. 2. That they present the obstinate to the monthly rural Synod, consisting of the Rectors of that part assembled under the Suffragan there to be censured. 3. That the Acts of the monthly Synods be revised once or twice a year by the Diocesan Sy<g ref="char:EOLhyphen"/>nod, consisting of all the suffragans and some choice Rectors assembled under the Bishop. 4. That further Appeal may be made, in case of grievances, to the Provin<g ref="char:EOLhyphen"/>cial Synods, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>This is a way of conjoyning <hi>Episcopal</hi> go<g ref="char:EOLhyphen"/>vernment and <hi>Presbyterial</hi> into one: which might happily content all sober Christians, so as Church-affairs should be managed (to borrow words from the royal pen) neither with tyranny, <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rity, nor popularity: nei<g ref="char:EOLhyphen"/>ther Bishops ejected, nor Presbyters despi<g ref="char:EOLhyphen"/>sed, nor people oppressed: <hi>Whom God hath joyned together, let no man put asunder.</hi> So much of the first Head.</p>
+            <p n="2">2. <hi>For Publick prayers.</hi> I see no cause to di<g ref="char:EOLhyphen"/>slike that which is (among the following testimonies) cited out of Mr. <hi>Calvin</hi>'s Epi<g ref="char:EOLhyphen"/>stle to the Lord Protector, wherein he saith,
+<pb n="6" facs="tcp:204377:6"/>
+               <hi>I very much approve a certain form of prayers, from which it may not be lawful for the Pastors in their function to depart; for these reasons, that help may be given to the unskilfulnesse of some: that the consent of all the Churches may appear; that the levity and uncertainty of some men al<g ref="char:EOLhyphen"/>waies affecting novelties, may be regulated and restrained.</hi> Yet neither doth <hi>Calvin</hi> here, nor do any of us deny a grave, modest, discreet and humble use of Ministers gifts, even in publick, the better to fit &amp; excite their own and the peoples affections to the present occasions. But that any mens private &amp; sin<g ref="char:EOLhyphen"/>gle Abilities should quite justle out the pub<g ref="char:EOLhyphen"/>lick forms of prayer, composed by the joynt Abilities and gifts of Godly learned Gover<g ref="char:EOLhyphen"/>nours of the Church, this is that we cannot allow of. Neither do we conceive the spirit of prayer to consist so much in utterance of words, which is but a gift of edification, as in stirring up the Graces of faith and hu<g ref="char:EOLhyphen"/>mility, and other gifts of sanctification, wherein the very life and soul of prayer consisteth. And certianly he that saith, that short comprehensive prayer (justly called <hi>The Lords prayer,</hi> because he framed it for his Disciples) with an understanding, devout and faithfull heart, prayes very spiritually, very acceptably, and powerfully. Con<g ref="char:EOLhyphen"/>cerning
+<pb n="7" facs="tcp:204377:6"/>this prayer, I censure it as too yiel<g ref="char:EOLhyphen"/>dingly spoken, which is said in the first Let<g ref="char:EOLhyphen"/>ter, as if the words might be laid aside and omitted, the sense being kept: When as, in my opinion, it is an honour to our Saviour, and a good mark of his humble and faithful followers, to keep not the sense onely, but the very form of words which he hath com<g ref="char:EOLhyphen"/>mended: Nor can I see any reason why so many in these times do omit the form, as if that omission were now become a distin<g ref="char:EOLhyphen"/>ctive character, whereby the most godly preachers and most Reformed Christians might be known. But enough of this.</p>
+            <p n="3">3. As to the Ordination and power of Ministers, that Text (<hi>Tit.</hi> 1.5.) insisted on in the Dispute (adde <hi>Acts</hi> 14.23.) plainly shews the <hi>Apostolical practice</hi> of Ordaining El<g ref="char:EOLhyphen"/>ders in every Church; and in succeeding A<g ref="char:EOLhyphen"/>ges a succession of Christs Ministers was preserved by the like Ordination, as <hi>Eccle<g ref="char:EOLhyphen"/>siastical Records</hi> do abundantly witness. That Churches parochial should be filled with those that set up <hi>a new or no form</hi> of worship, and minister holy things before they have received <hi>holy Orders,</hi> this I think was never heard of in our land, before these our times; and what the consequence will be, we have great cause to fear, even the overthrow of
+<pb n="8" facs="tcp:204377:7"/>all Religion, and the introducing of Atheism and prophaness among our people. Those words in the late <hi>Mournf<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Complaint,</hi> pre<g ref="char:EOLhyphen"/>sented to some Parliament men, are to the purpose: <q>
+                  <hi>You have placed in many of our Churches, and given the Tithes, and other profits belonging to the cure of souls, to men that refuse to take any such charge upon them, and who are so far from having the affections, or performing the duties of faithful Pastors to us, that they do pro<g ref="char:EOLhyphen"/>fessedly disown any such relation, and consequently all the duties thereunto belonging: Thence they neither Baptise nor Catechise our children, <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r do they administer the Lords Supper in our Con<g ref="char:EOLhyphen"/>gregations, our sick and seeble persons they visite not, nor own it as a duty incumbent on them to take care for our souls.</hi>
+               </q> These Ministers I con<g ref="char:EOLhyphen"/>ceive, being not Ordained, believ<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their mi<g ref="char:EOLhyphen"/>nisterial power to reach onely to those select persons that are in Covenant with them, and submit to their Church-way, as if the said power were received from the persons that consent thereunto. Thus have we Ministers that are <hi>Preachers</hi> to thousands, and <hi>Ministers</hi> (as themselves say) to some few gathered out of the multitude; the rest of the multi<g ref="char:EOLhyphen"/>tude in the mean time remaining (accord<g ref="char:EOLhyphen"/>ing to their opinion) almost in the quality of meer Heathens and Infidels: and if they
+<pb n="9" facs="tcp:204377:7"/>be not such, this seemeth a way to make them so. For, being not owned as Brethren by the gathered Church, and having good rea<g ref="char:EOLhyphen"/>sons not to come into their communion, they are in many places destitute of divine or<g ref="char:EOLhyphen"/>dinances without publick Prayers, Sermons, Sacraments, and in a ready way to loose Re<g ref="char:EOLhyphen"/>ligion altogether. But why do they not come into the Preachers placed among them by Authority? Because they believe those Prea<g ref="char:EOLhyphen"/>chers, however settled by the civil power, have not received the sacred Office by lawful Ordination: For we may easily distinguish between the <hi>Office</hi> and the <hi>place</hi> wherein the Office is exercised. Preachers and Ministers are placed, and confirmed in their places by the Magistrate or Civil power, but they re<g ref="char:EOLhyphen"/>ceive their ministerial Office, or spiritual function by lawful Ordination, and laying on of the hands of the Presbytery. This is called the Power of Order, derived, not from the Magistrate or Prince; not from the peop<g ref="char:EOLhyphen"/>le (they cannot give what they have not) but from Bishops and Presbyters, who also have received it from their Predecessors. The <hi>Ministers, Servants, Officers</hi> and <hi>Embassa<g ref="char:EOLhyphen"/>dors</hi> of Christ, must have their Authority and Commission from Christ, either <hi>immediately,</hi> as the Apostles had, or <hi>m<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> by the hands
+<pb n="10" facs="tcp:204377:8"/>of Elder Ministers, as the lawful Ministers of our time have; nor may any take this ho<g ref="char:EOLhyphen"/>nour unto himself, but he that is thus called of God. The people indeed may be said to <hi>Call,</hi> that is, to <hi>invite</hi> and intreate Ministers to come unto them, but their <hi>Calling</hi> or <hi>Fun<g ref="char:EOLhyphen"/>ction</hi> is from God. The Lord of the harvest <hi>sends</hi> in the laborers; the great Shepheard <hi>setteth</hi> Pastors over his flock; the Master of the Family <hi>appointeth</hi> Stewards for his hous<g ref="char:EOLhyphen"/>hould to dispence unto them the Mysteries of God.</p>
+            <p n="4">4. For the administration of the holy Sacrament, that such as have not received the <hi>power</hi> before mentioned by lawful Ordi<g ref="char:EOLhyphen"/>nation, do not administer the Sacrament to all, we will not blame them, because we con<g ref="char:EOLhyphen"/>ceive they have not power of ministring to <hi>any one;</hi> but that they condemn the <hi>lawful Mi<g ref="char:EOLhyphen"/>nisters</hi> for ministring unto the people of their <hi>Parishes,</hi> the sacred things which cannot rightly be denied them, this we may com<g ref="char:EOLhyphen"/>plain of. In the above-cited <hi>Mournful Com<g ref="char:EOLhyphen"/>plaint,</hi> among many other <hi>sad</hi> passages, we finde these words: <q>
+                  <hi>You permit us not to cele<g ref="char:EOLhyphen"/>brate the memory of our dying Saviour in the Sacrament of his last Supper, and so deprive our souls of that heavenly food, that our dear Lord hath with so much cost provided for us: We
+<pb n="11" facs="tcp:204377:8"/>would after many sad violations, renew our Co<g ref="char:EOLhyphen"/>venant with Christ, and engage our souls more firmly to him, but you will not permit us. You complain of the loosenesse of our spirits, whilest you withhold the bonds that should knit us faster unto Christ; you complain of our weaknesse in resisting corruptions, whilest you withhold the food whereby we should be strengthened; you com<g ref="char:EOLhyphen"/>plain of seism, strife and division, whilest by you the sacred pledge of Ʋnion is detained from us.</hi>
+               </q> Surely, I had rather the Church-gatherers should blame the Minister for his <hi>indulgence</hi> to the people, than that the people should have cause in this manner to complain of his <hi>severity;</hi> but the golden mean is to be inquired for. And this is discovered in the ensuing Papers; where the Author endea<g ref="char:EOLhyphen"/>rours on the one side to avoid the <hi>preciseness</hi> of some, that admit to the holy Table onely some <hi>few</hi> persons chosen out of many hun<g ref="char:EOLhyphen"/>dreds; and the <hi>loosnesse</hi> of some on the o<g ref="char:EOLhyphen"/>ther side, who admit hundreds and exclude not some <hi>few;</hi> namely, such as are ignorant and scandalous, such he would have <hi>noted,</hi> kept back and avoided, if after due admo<g ref="char:EOLhyphen"/>nitions they will not be amended. Who<g ref="char:EOLhyphen"/>soever shall peruse two of the following Pa<g ref="char:EOLhyphen"/>pers, the first entituled, <hi>A reformed Congre<g ref="char:EOLhyphen"/>gation.</hi> The second, <hi>The Congregation of</hi> S.
+<pb n="12" facs="tcp:204377:9"/>will acknowledge the Author to be no fa<g ref="char:EOLhyphen"/>vourer of ignorance and scandalous living, but one that is studious to advance and in<g ref="char:EOLhyphen"/>crease knowledge and piety, and to procure and maintain good Order. The more cause have I to note either the want of charity, or want of care in that Writer, who in a cer<g ref="char:EOLhyphen"/>tain <hi>Preface</hi> hath snatched the Argument out of the Letter <hi>May</hi> 26 and contrary to the Authors minde and the many expressions in the Book, put upon him this Thesis, <hi>That the ignorant and scandalous must be admitted to the Communion:</hi> For it is one thing to admi<g ref="char:EOLhyphen"/>nister the Sacrament in a Congregation, <hi>though mixt, i.e.</hi> though after your diligence in doing your part, there be a mixture of good and bad, as there will be while men are men; and it is another thing to administer carelesly to all sorts, without preparation, without observation, without suspension of such as the Minister is assured, are uncapa<g ref="char:EOLhyphen"/>ble of receiving any benefit thereby. That the fear of a mixture is not reason enough to forbear the Sacrament, is (we still believe) evinced by some (at least) of those Argu<g ref="char:EOLhyphen"/>ments. How they are perverted by the Re<g ref="char:EOLhyphen"/>penter, the impartiall Reader will easily ob<g ref="char:EOLhyphen"/>serve, if he please to compare the places. I will here mention onely the last. <hi>As we offer
+<pb n="13" facs="tcp:204377:9"/>the Covenant to All, so must we offer the Seal to All, that do outwardly submit to the Covenant.</hi> Out of these words the Repeater frames this Argument: <hi>The Covenant must be offered to all; Therefore the Sacrament must be offered to all, even to the ignorant and scandalous:</hi> Lea<g ref="char:EOLhyphen"/>ving out the qualification added to <hi>All</hi> in the letter; namely, <hi>that outwardly submit to the Covenant,</hi> by which he might if he had plea<g ref="char:EOLhyphen"/>sed, have understood, those <hi>that professe faith and repentance,</hi> and <hi>outwardly</hi> or in the eye of their neighbours, are not rebellious against good counsell and admonition. If profession of faith and repentance, t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at is, a voluntary subjection to the Gospel be not the proper Quality of a <hi>Receiver,</hi> what is? And when shall Ministers perform their duty of admi<g ref="char:EOLhyphen"/>nistration, if they must behold first the work of Grace wrought in the <hi>heart</hi> of every Re<g ref="char:EOLhyphen"/>ceiver? Let the Minister instruct, exhort, admonish his people; let the people also ex<g ref="char:EOLhyphen"/>hort, and admonish one another, yea let them <hi>separate and gather</hi> as long as they will; yet still there will be a mixture: Perfect pu<g ref="char:EOLhyphen"/>rity is reserved for heaven. Labour for pu<g ref="char:EOLhyphen"/>rity, labour for perfection we must, but in the way of charity and humility, in the way of peace and order. The defence, not of neg<g ref="char:EOLhyphen"/>ligent, but of faithful Ministers in Parish-Churches
+<pb n="14" facs="tcp:204377:10"/>was the thing undertaken by this Respondent, who whilest he labored to com<g ref="char:EOLhyphen"/>pose the difference by <hi>private conference,</hi> was unhappily engaged to a kinde of <hi>publick Di<g ref="char:EOLhyphen"/>spute,</hi> wherein the Reader will quickly finde a great fault, <hi>wandring from the Question,</hi> and he will find as easily where to lay the blame. However, it may pass among the <hi>scuffles</hi> of our time, not the worst. In the <hi>Relation</hi> we know not of any wrong done to the Oppo<g ref="char:EOLhyphen"/>nents, with whom the Respondent wisheth no more contention, but what shall pursue <hi>Truth and Peace</hi> with the swiftest foot. For he is not glad to see the divisions of <hi>Protestants</hi> and <hi>Papists,</hi> muchless of <hi>Protestants</hi> among themselves; least of all, of <hi>English Protestants</hi> st<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iving to the ruin of our Mother Church.</p>
+            <p>All good men will joyn in Reverend Do<g ref="char:EOLhyphen"/>ctor <hi>Bernard</hi>'s most charitable wish, That such as do consent in substantials for matter of <hi>Doctrine,</hi> would joyn in <hi>Discipline,</hi> and not let private interests and Circumstantials keep them thus far asunder.</p>
+            <p>I conclude with the words of an honorable and religious person: <q>
+                  <hi>This therefore is the best and surest way, because we are all apt to be decei<g ref="char:EOLhyphen"/>ved, to be sincere in our disquisitions, modest in our determinations, charitable in our Censures,
+<pb n="15" facs="tcp:204377:10"/>and apt to communicate in things of evident Truth and confessed Holinesse.</hi>
+               </q>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Mar. 25. 1657.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:204377:11"/>
+            <head>Post-script.</head>
+            <p>THe Respondent hath been heavily censur'd for what <hi>he said,</hi> at the end of the Dispute, concerning <hi>Universal Redemption [vide E<g ref="char:EOLhyphen"/>pist.</hi> Davenantii <hi>ad</hi> Duraeum.] But <hi>he saith,</hi> he will change his Opinion, when he shall see the fol<g ref="char:EOLhyphen"/>lowing Paper of that Title solidly answered. Mean while, he hopeth he shall <hi>(by Gods Grace)</hi> patiently endure the loss and displeasure, that in these times attend upon that and other wholesome Doctrines.</p>
+            <pb facs="tcp:204377:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
